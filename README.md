@@ -1,4 +1,5 @@
 **Exploring DVD Rental Database with SQL Queries**
+
 Welcome to our blog where we delve into the fascinating world of DVD rental databases and analyze various SQL queries that offer valuable insights and information from such a database. We'll be using the renowned DVD rental database and examining ten queries, each with a unique purpose and output.
 
 DVD Rental Database Overview
