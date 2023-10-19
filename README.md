@@ -2,7 +2,9 @@
 
 Welcome to our blog where we delve into the fascinating world of DVD rental databases and analyze various SQL queries that offer valuable insights and information from such a database. We'll be using the renowned DVD rental database and examining ten queries, each with a unique purpose and output.
 
+
 DVD Rental Database Overview
+
 The DVD rental database is a comprehensive collection of interconnected tables that store vital information related to films, customers, rentals, actors, payments, and more. Key tables within this database include:
 
 * Film: Contains film details such as title, description, release year, rental duration, rental rate, and more.
@@ -12,7 +14,9 @@ The DVD rental database is a comprehensive collection of interconnected tables t
 * Inventory: Connects films to rental transactions by storing inventory details.
 * Payment: Records payment information related to rentals.
 
+
 SQL Queries: Unveiling Insights
+
 Let's dive into ten SQL queries, each with a unique purpose and output, to extract valuable insights from the DVD rental database.
 
 
